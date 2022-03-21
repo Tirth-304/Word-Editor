@@ -9,3 +9,7 @@ In this project, I have used all concepts of ReactJs like
 
 Here is the link to visit the website
 https://word-editor.herokuapp.com/
+
+
+To know more about this app, Kindly visit
+https://word-editor.herokuapp.com/about
